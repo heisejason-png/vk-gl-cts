@@ -96,3 +96,4 @@ prior building and running any test suite such as `dEQP-VK.video.decode.*`. It w
 
 To run the vulkan video *encode* test suite, you'll need to run the script `external/fetch_video_encode_samples.py`
 prior building and running any test suite such as `dEQP-VK.video.encode.*`. It will download the video clips  in `external/vulkancts/data/vulkan/video`.
+Created by Jason Scott Heise
